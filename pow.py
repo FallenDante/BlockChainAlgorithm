@@ -2,5 +2,5 @@
 # -*- coding: utf-8 -*-
 # @Time    : 18-9-18 下午8:29
 # @Author  : Dante
-# @File    : Pow.py
-# @Description : 添加注释
+# @File    : pow.py
+# @Description : 工作量证明算法
